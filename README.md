@@ -87,7 +87,7 @@ chmod u+x .config/sxhkd/sxhkdrc
 
 ## SOFT 
 ```bash
-sudo pacman -S pulseaudio pavucontrol firefox pinta telegram-desktop lxappearance nitrogen viewnior geany python  thunar polybar awesome-terminal-fonts dmenu flameshot sublime-text picom zathura
+sudo pacman -S pulseaudio pavucontrol firefox pinta telegram-desktop lxappearance nitrogen viewnior geany python  thunar polybar awesome-terminal-fonts rofi flameshot sublime-text picom zathura
 ``` 
   
 ## TERMINAL SOFT  
