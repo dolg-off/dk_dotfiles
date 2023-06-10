@@ -6,4 +6,6 @@ about:config
 toolkit.legacyUserProfileCustomizations.stylesheets
 ``` 
 
-'true'
+```
+true
+```
