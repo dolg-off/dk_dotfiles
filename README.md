@@ -92,7 +92,7 @@ sudo pacman -S pulseaudio pavucontrol firefox pinta telegram-desktop lxappearanc
   
 ## TERMINAL SOFT  
 ```bash
-sudo pacman -S htop links neofetch ranger ueberzug highlight unzip cmus 
+sudo pacman -S htop links neofetch ranger ueberzug highlight unzip cmus cava
 ```  
   
 ## FISH  
