@@ -1,0 +1,32 @@
+#zoom
+set zoom-step 5
+map <C-n> zoom out
+map <C-m> zoom in
+
+#clipboard
+#set selection-clipboard clipboard
+
+set incremental-search "true"
+set font "JetBrainsMono NF"
+set adjust-open "width"
+set window-title-basename "true"
+set statusbar-basename "true"
+set guioptions true
+
+# colors
+
+set default-bg "#1e1e2e"
+set default-fg "#f2cdcd"
+
+set recolor-darkcolor "#f2cdcd"
+set recolor-lightcolor "#1e1e2e"
+
+set highlight-color "#cba6f7"
+set highlight-active-color "#a6e3a1"
+
+set inputbar-bg "#1e1e2e"
+set inputbar-fg "#e5e0c9"
+
+set recolor true
+map i recolor
+map <C-Space> toggle_statusbar
