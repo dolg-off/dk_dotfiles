@@ -122,8 +122,6 @@ end
   
 ## Permission
 ```bash
-chmod +x .config/dk/dkrc
-chmod +x .config/sxhkd/sxhkdrc
 chmod +x .config/polybar/*.sh
 chmod +x .config/rofi/scripts/*.sh
 chmod +x .config/picom/picom.sh
