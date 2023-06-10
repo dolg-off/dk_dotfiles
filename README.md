@@ -1,15 +1,12 @@
 ## GALLERY
-<img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/111.png" width="400" lign="center">  <img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/1.png" width="400" lign="center">
+<img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/1.png" width="400" lign="center">  <img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/2.png" width="400" lign="center">
 
-<img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/11.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/2.png" width="400" lign="center">
+<img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/3.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/4.png" width="400" lign="center">
 
-<img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/3.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/4.png" width="400" lign="center">
+<img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/5.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/6.png" width="400" lign="center">
 
-<img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/5.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/6.png" width="400" lign="center">
+<img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/7.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk_dotfiles/main/screenshot/8.png" width="400" lign="center">
 
-<img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/7.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/22.png" width="400" lign="center">
-
-<img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/77.png" width="400" lign="center"> <img src="https://raw.githubusercontent.com/dolg-off/dk-dotfiles/main/.screenshot/88.png" width="400" lign="center">
   
 ## INFO
 |DIstro|[ARCH](https://archlinux.org/)|
@@ -21,6 +18,7 @@
 |Icon|[Catppuccin Icon Theme](https://www.gnome-look.org/p/1715570)|
 |GTK3|[Catppuccine GTK Theme](https://www.gnome-look.org/p/1715554/)|
 |Fonts|[JetBrainsMono](https://www.jetbrains.com/lp/mono/)|
+|Fonts 2|[JetBrainsMono Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/JetBrainsMono.zip)|
 |Picom|[yshui](https://github.com/yshui/picom)|
 |FireFox|[Catppuccine Rosewater](https://github.com/catppuccin/firefox/releases/download/old/catppuccin_mocha_rosewater.xpi)|
 |Launcher|[dmenu](https://git.suckless.org/dmenu/)|
