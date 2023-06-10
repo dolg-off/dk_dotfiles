@@ -87,12 +87,12 @@ chmod u+x .config/sxhkd/sxhkdrc
 
 ## SOFT 
 ```bash
-sudo pacman -S pulseaudio pavucontrol firefox pinta telegram-desktop lxappearance nitrogen viewnior geany python  thunar jq polybar awesome-terminal-fonts dmenu flameshot sublime-text picom
+sudo pacman -S pulseaudio pavucontrol firefox pinta telegram-desktop lxappearance nitrogen viewnior geany python  thunar polybar awesome-terminal-fonts dmenu flameshot sublime-text picom zathura
 ``` 
   
 ## TERMINAL SOFT  
 ```bash
-sudo pacman -S htop links neofetch ranger ueberzug highlight unzip 
+sudo pacman -S htop links neofetch ranger ueberzug highlight unzip cmus 
 ```  
   
 ## FISH  
