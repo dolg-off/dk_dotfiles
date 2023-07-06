@@ -35,11 +35,12 @@ fi
     
     if [ $mon2 = 'HDMI-0' ]; then
         dkcmd set ws=_ apply layout=tile master=1 stack=1 pad left=10 right=10 top=10 bottom=10 gap=15 msplit=0.4 ssplit=0.5
-        dkcmd set ws=9 layout=grid pad l=600 r=600 t=200 b=200 gap=15  
+        dkcmd set ws=4 layout=none pad left=5 right=5 top=5 bottom=5 gap=5 msplit=0.5 ssplit=0.5
     fi
 
     if [ $mon2 = 'DP-4' ]; then
         dkcmd set ws=_ apply layout=tile master=1 stack=3 pad left=5 right=5 top=5 bottom=5 gap=5 msplit=0.5 ssplit=0.5
+        dkcmd set ws=4 layout=none pad left=5 right=5 top=5 bottom=5 gap=5 msplit=0.5 ssplit=0.5
     fi
 
     dkcmd set \
@@ -84,8 +85,8 @@ fi
 
     dkcmd rule class="^firefox$" ws=1
     dkcmd rule class="^mpv" ws=3
-    dkcmd rule class="^telegram-desktop" 
-    dkcmd rule class="^telegram" 
+    dkcmd rule class="^telegram-desktop" ws=4
+    dkcmd rule class="^telegram" ws=4
     dkcmd rule class="^(nitrogen|lxappearance|pavucontrol|headset|blueman|nm-applet|blueman-manager|blueman|telegram)$" float=true
     dkcmd rule apply '*'
 

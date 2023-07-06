@@ -133,4 +133,3 @@ super + {_,shift + }{minus,equal}
 # poweroff & reboot
 super + ctrl + {p,r}
 	{systemctl poweroff, systemctl reboot}
-
